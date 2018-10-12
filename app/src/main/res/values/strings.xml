@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="title_home">Favorite</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_search">Search</string>
+
+    <string name="title_activity_create_note">Create Note</string>
+    <string name="prompt_title">Title</string>
+    <string name="prompt_search">Enter the text to search</string>
+    <string name="prompt_description">Description (Note)</string>
+    <string name="action_create_note">Create a new Note </string>
+    <string name="action_note_in_short">Save</string>
+    <string name="error_invalid_email">This title  is invalid</string>
+    <string name="error_invalid_password">This description is too short</string>
+    <string name="error_incorrect_password">This description is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_detail_note">Note Detail</string>
+    <string name="action_update_note">Update note</string>
+    <string name="action_delete_note">Delete Note</string>
+    <string name="action_search_note">Search Note</string>
+</resources>
